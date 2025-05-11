@@ -1,6 +1,5 @@
-import { Fragment, useState } from 'react';
-import Counter from './components/Counter';
-import './App.css';
+import { Fragment } from 'react';
+import Counter from './components/Counter'
 
 function App() {
 
